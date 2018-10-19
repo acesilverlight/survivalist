@@ -1,3 +1,6 @@
-1. Delete Artboard
 
-![](../images/pilot-07/delete-artboard.gif)
+BackSpace Delete
+
+'Delete' Key Delete
+
+Right Click Delete
